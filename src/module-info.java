@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author tenzi
+ *
+ */
+module Hello {
+}
